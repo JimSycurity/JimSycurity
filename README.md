@@ -8,8 +8,8 @@
    - [LinkTree](https://linktr.ee/Jimsykora)   
 - 😄 Pronouns: he/him/hän
 
-## Research/Blogs/Whitepapers:
-- [Ten Ways to Improve AD Security Quickly Whitepaper](https://www.hub.trimarcsecurity.com/post/ten-ways-to-improve-ad-security-quickly)
+## [Research/Blogs/Whitepapers](https://github.com/JimSycurity/JimSycurity/blob/main/BlogsResearchPapers.md)
+
 
 
 <!--

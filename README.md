@@ -8,7 +8,7 @@
    - [LinkTree](https://linktr.ee/Jimsykora)   
 - 😄 Pronouns: he/him/hän
 
-## [Research/Blogs/Whitepapers](https://github.com/JimSycurity/JimSycurity/blob/main/BlogsResearchPapers.md)
+## [Research/Blogs/Whitepapers/Content](https://github.com/JimSycurity/JimSycurity/blob/main/BlogsResearchPapers.md)
 
 
 

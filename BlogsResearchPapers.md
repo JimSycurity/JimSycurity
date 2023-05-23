@@ -3,7 +3,8 @@
 
 ## Research
 
-
+## Talks
+- [AD & DNS: A Match Made in Heck](https://www.hub.trimarcsecurity.com/post/ad-dns-a-match-made-in-heck) - BSides Charm 2023
 
 ## Long Form Papers
 - [Ten Ways to Improve AD Security Quickly](https://www.hub.trimarcsecurity.com/post/ten-ways-to-improve-ad-security-quickly) Trimarc Content Hub: 29 Page PDF

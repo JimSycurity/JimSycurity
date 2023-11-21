@@ -6,6 +6,9 @@
 ## Talks
 - [AD & DNS: A Match Made in Heck](https://www.hub.trimarcsecurity.com/post/ad-dns-a-match-made-in-heck) - BSides Charm 2023
   [ - Recording](https://youtu.be/QSRxrTXj8G0)
+- [AD & DNS: A Match Made in Heck](https://www.hub.trimarcsecurity.com/post/ad-dns-a-match-made-in-heck) - Wild West Hackin' Fest 2023 - [Slides](https://github.com/TrimarcJake/BlueTuxedo/blob/main/ADI%20DNS%20-%20No%20demo.pptx)
+  - Tool Released: [BlueTuxedo: A tiny tool built to find and fix common misconfigurations in Active Directory-Integrated DNS](https://github.com/TrimarcJake/BlueTuxedo)
+- [AD & DNS: A Match Made in Heck](https://www.hub.trimarcsecurity.com/post/ad-dns-a-match-made-in-heck) - Hackers Teaching Hackers 2023
 
 ## Long Form Papers
 - [Ten Ways to Improve AD Security Quickly](https://www.hub.trimarcsecurity.com/post/ten-ways-to-improve-ad-security-quickly) Trimarc Content Hub: 29 Page PDF with scripts and remediations

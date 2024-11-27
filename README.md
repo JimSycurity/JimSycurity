@@ -2,7 +2,7 @@
 
 - 💬 Ask me about Active Directory security 
 - 📫 How to reach me:
-   - [BlueSky] (https://bsky.app/profile/jimsycurity.adminsdholder.com)
+   - [BlueSky](https://bsky.app/profile/jimsycurity.adminsdholder.com)
    - [LinkedIn](https://www.linkedin.com/in/jimsykora)
    - [Mastodon](https://infosec.exchange/@JimSycurity{:rel="me"}) - I don't check this often
    - [Twitter](https://twitter.com/JimSycurity) - I rarely check this now

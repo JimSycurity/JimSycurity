@@ -1,5 +1,5 @@
 ## Blog Posts
-
+- [Understanding & Mitigating BadSuccessor](https://specterops.io/blog/2025/05/27/understanding-mitigating-badsuccessor/)
 
 ## Research
 
